@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(104): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genius\documents\rutgers\graphics\openglroot\openglvs\openglvs\main.cpp(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLVS.vcxproj -> C:\Users\Genius\Documents\Rutgers\Graphics\OpenGLRoot\OpenGLVS\Debug\OpenGLVS.exe
